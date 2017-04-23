@@ -1,0 +1,30 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  color:#BCBBBB;
+}
+h1{
+  font-size: 48px;
+}
+
+hr{
+  height:3px; 
+  border:none; 
+  color:#BCBBBB; 
+  background-color:#BCBBBB;
+}
+
+.content-title{
+  padding-left: 25px;
+}
+
+.text-muted {
+  color: #747704;
+}
+
+.text-thin{
+  font-weight: 300;
+}
+
+.content h3{
+  text-transform: uppercase;
+}
